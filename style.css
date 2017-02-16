@@ -5,3 +5,18 @@
 h1 {
     text-align: center;
 }
+@import url("https://fonts.googleapis.com/css?family=Poiret+One");
+
+h1 {
+  font-family: Poiret One; 
+}
+ 
+h1{
+  color: #D2AFA1
+
+}
+body { 
+  background-image: url("http://finodiary.trade/wp-content/uploads/2015/06/light-grey-background-pattern-i1.jpg");
+    background-size: 1000px;
+  background-repeat: 3 ;
+}

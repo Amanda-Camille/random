@@ -32,7 +32,12 @@ function createSecondScene() {
 // You need to use at least 3 different types of shape.
 // Remember, for the shapes to show up on the canvas, you'll need to CALL the function.
 function createThirdScene() {
+    makeCircle(50,50,10,"gray","1.0")
+    makeCircle(60,60,12,"teal","1.0")
+    makeEllipse(70,70,8,15,"green","1.0")
     
+    makeRect(46,15,2,20,"orange","1.0")
+    makeRect(36,25,2,20,"yellow","1.0")
 }
 
 
